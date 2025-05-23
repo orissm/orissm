@@ -61,5 +61,10 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />  
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 
-
-<h3 style="font-family: Arial, sans-serif;">KEY ACHIEVEMENTS</h3>
+<div>
+  <h3 style="font-family: Arial, sans-serif;">KEY ACHIEVEMENTS</h3>
+  <li>Developed and Deployed Smart Contracts</li>  
+  <li>Lead Blockchain Projects</li>  
+  <li>Innovative dApp Development</li>
+  <li>Performance Optimization</li>
+</div>
