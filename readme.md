@@ -27,16 +27,14 @@
 </ul>  
 <h3 style="font-family: Arial, sans-serif; ">🥉 &nbsp;Project Launch </h3>  
 <ul style="font-family: Arial, sans-serif; ">  
-<li><a href="https://pioneerlegends.com">Pioneerlegends(Solana)</a></li>  
-
+  <li><a href="https://pioneerlegends.com">Pioneerlegends(Solana)</a></li>  
   <li><a href="https://ott-official.vercel.app">Token Presale site (Ethereum)</a></li>  
-   <li><a href="https://app.onyx.org">EVM AI Agent</a></li>  
+  <li><a href="https://app.onyx.org">EVM AI Agent</a></li>  
   <li><a href="https://superkongz-staking.netlify.app">Seattle-SuperKongs-Staking (Ethereum)</a></li>
   <li><a href="https://foxfinance.io/Marketplace">Fox Finanence | Marketplace(Avalanche/Solana)</a></li>  
   <li><a href="https://artshole.com">ArtShole (MERN Stack)</a></li>  
   <li>Bitcoin ,<a href="https://ordinals.com/">Ordinal</a>, <a href="https://docs.ordinals.com/runes.html">Runnes</a>, BIT Map</li>
 </ul>  
-
 
 <h3 style="font-family: Arial, sans-serif;">SKILLS</h3>  
 <p>  
