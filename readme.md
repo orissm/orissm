@@ -4,7 +4,7 @@
   <img width="80" src="icons/Medal Cup.png" alt="GitHub Profile SSM ORI" />  
   <h2 style="font-family: Arial, sans-serif; ">I am a Senior Software/Blockchain Developer</h2>  
   <p style="font-size: 18px; ">  
-    <strong>🏆 BITCOIN | EVM | SOLANA & Angular | React | Next | Vue | Nuxt & Python | Daingo | C# | ASP.NET | Spring Boot 🏆</strong>  
+    <strong>🏆 BITCOIN | EVM | SOLANA | TON | Near & Angular | React | Next | Vue | Nuxt & Python | Daingo | C# | ASP.NET | Spring Boot 🏆</strong>  
   </p>  
 </div>  
 
