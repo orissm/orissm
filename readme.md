@@ -30,6 +30,7 @@
 
   <li><a href="https://flash-launch.com/">Flash Launch - Multichain Launchpad Web 3 for everyone</a></li>
   <li><a href="https://flash-transfer.vercel.app/">Flash Transfer: Crypto & Fiat international money transfer</a></li>
+  <li><a href=""https://music-nft-market-place-frontend.vercel.app">Music NFT Market on EVM</a></li>
   <li><a href="https://pioneerlegends.com">Pioneerlegends(Solana)</a></li>  
   <li><a href="https://ott-official.vercel.app">Token Presale site (Ethereum)</a></li>  
   <li><a href="https://app.onyx.org">EVM AI Agent</a></li>  
